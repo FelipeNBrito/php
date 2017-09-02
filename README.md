@@ -10,6 +10,8 @@
 
 O arquivo reference à questão encontra-se em: [Questão 01](https://github.com/FelipeNBrito/vaga-desenvolvedor-analista-php/blob/master/questao_01.php).
 
+> No terminal execute os seguintes comandos: 
+
 ``` git clone https://github.com/FelipeNBrito/vaga-desenvolvedor-analista-php.git ```
 
 ``` cd vaga-desenvolvedor-analista-php ```
