@@ -8,11 +8,11 @@
 
 ### Instruções para rodar a questão 01 (Linux & Mac)
 
-O arquivo reference à questão encontra-se em: [Questão 01](https://github.com/FelipeNBrito/vaga-desenvolvedor-analista-php/blob/master/questao_01.php).
+O arquivo reference à questão encontra-se em: [Questão 01](https://github.com/FelipeNBrito/php/blob/master/questao_01.php).
 
 > No terminal execute os seguintes comandos: 
 
-``` git clone https://github.com/FelipeNBrito/vaga-desenvolvedor-analista-php.git ```
+``` git clone https://github.com/FelipeNBrito/php.git ```
 
 ``` cd vaga-desenvolvedor-analista-php ```
 
@@ -21,7 +21,7 @@ O arquivo reference à questão encontra-se em: [Questão 01](https://github.com
 
 ## Questão 02
 
-Para vizualizar o arquivo contendo a questão 02 refatorada: [QUestão 02](https://github.com/FelipeNBrito/vaga-desenvolvedor-analista-php/blob/master/questao_02.php).
+Para vizualizar o arquivo contendo a questão 02 refatorada: [Questão 02](https://github.com/FelipeNBrito/vaga-desenvolvedor-analista-php/blob/master/questao_02.php).
 
 ### Observaçôes
 
