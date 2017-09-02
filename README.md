@@ -14,7 +14,7 @@ O arquivo reference à questão encontra-se em: [Questão 01](https://github.com
 
 ``` git clone https://github.com/FelipeNBrito/php.git ```
 
-``` cd vaga-desenvolvedor-analista-php ```
+``` cd php ```
 
 ``` php questao_01.php ```
 
