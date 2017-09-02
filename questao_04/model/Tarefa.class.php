@@ -36,4 +36,14 @@
 		public function setDescricao($descricao) {
 			$this->descricao = $descricao;	
 		}
+
+		public function toArray() {
+
+			$returnArray = array(
+				'id' => $this->getId(),
+				'titulo' => $this->getTitulo(),
+				'descricao' => $this->getDescricao());
+			
+			return $returnArray;
+		}
 	}

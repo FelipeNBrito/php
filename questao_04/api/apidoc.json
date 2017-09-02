@@ -1,0 +1,19 @@
+  
+  {
+    "name": "Tarefas",
+    "title": "Tarefas API",
+    "url": "http://localhost/vaga-desenvolvedor-analista-php/questao_04/api",
+    "sampleUrl": "http://localhost/vaga-desenvolvedor-analista-php/questao_04/api",
+    "version": "0.0.0",
+    "description": "Tarefas API",
+    "defaultVersion": "0.0.0",
+    "apidoc": "0.3.0",
+    "generator": {
+      "name": "apidoc",
+      "time": "2017-06-19T03:38:28.009Z",
+      "url": "http://apidocjs.com",
+      "version": "0.17.6"
+    }
+  }
+
+  
