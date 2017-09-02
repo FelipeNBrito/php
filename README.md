@@ -1,4 +1,30 @@
 # vaga-desenvolvedor-analista-php
 
 
-> Aviso: Na especificação da prova foi indicado para utilizar php 5.3. O suporte para o php 5.3 acabou e há possibilidade de existirem vunerabilidades de segurança não corrigidas. 
+## Questão 01
+
+### Requisitos necessários:
+  * PHP 5.3
+
+### Instruções para rodar a questão 01 (Linux & Mac)
+
+O arquivo reference à questão encontra-se em: [Questão 01](https://github.com/FelipeNBrito/vaga-desenvolvedor-analista-php/blob/master/questao_01.php).
+
+> No terminal execute os seguintes comandos: 
+
+``` git clone https://github.com/FelipeNBrito/vaga-desenvolvedor-analista-php.git ```
+
+``` cd vaga-desenvolvedor-analista-php ```
+
+``` php questao_01.php ```
+
+
+## Questão 02
+
+Para vizualizar o arquivo contendo a questão 02 refatorada: [QUestão 02](https://github.com/FelipeNBrito/vaga-desenvolvedor-analista-php/blob/master/questao_02.php).
+
+### Observaçôes
+
+Refatorei o arquivo basicamente só removendo a estrutura if/else. Particularmente não gosto de usar essa estrutura nos meus códigos, por diminuírem a legibilidade de acordo com que os fluxos vão aumentando. 
+
+Um ponto de rafatoração importante que caberia também na questão 02 seria abstrair a lógica de implementação para uma funcção helper que ficaria responsável em retornar um booleano dizendo se a pessoa se encontra autenticada. Dessa forma diminuiria o acoplamento, e aumentaria a coesâo, além de deixar transparente para as camadas de fronteira a questão de como o a autenticação funciona. Camada de fronteira não precisa saber se a autenticação é  por cookie, por session, por token, etc, só precisa saber se a pessoa possui permissoes de acesso ou não.
