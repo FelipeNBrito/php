@@ -52,3 +52,14 @@ Crie o banco de dados e tableas necessá
 Adicione o conteúdo da questão 04 em algum servidor php e rode o arquivo doc/index.html dentro da pasta questão 04.
 
 
+
+#### Obeservaçôes
+
+Por questoẽs de outras atribuições que tive nos dias de realisaçao da prova, a questão 04 encontra-se incompleta. 
+Faltou: 
+
+ * Testes unitários
+ * Testes de API
+ * COnfigurar o apache para user URLS amigáveis (Para seguir o padrão REST a risca)
+ * E o front end, que eu o faria utilizando a biblioteca https://rubaxa.github.io/Sortable/
+ * Adicionar o atributo 'ordem' e criar as funcoes de swap order. 
